@@ -274,7 +274,7 @@ while delivering an engaging and interactive analytical experience.
 
 ---
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
 **Yomna Ahmed Hamdy**  
 Data Analyst
