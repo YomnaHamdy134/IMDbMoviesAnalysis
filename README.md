@@ -14,7 +14,7 @@ The dashboard focuses on transforming raw movie data into meaningful visual insi
 
 ---
 
-# Dataset Information
+## Dataset Information
 
 The dataset was collected from IMDb Top Rated Movies:
 
@@ -34,7 +34,7 @@ The analysis focuses on **250 top-rated movies** from IMDb.
 
 ---
 
-# Data Cleaning & Transformation (Power Query)
+## Data Cleaning & Transformation (Power Query)
 
 ![Power Query](images/Cleaning.png)
 
@@ -71,7 +71,7 @@ This helped create better time-based analysis and trend visualization.
 
 ---
 
-# Data Model
+## Data Model
 
 ![Data Model](images/Model.png)
 
@@ -84,7 +84,7 @@ Only the required columns were kept to improve:
 
 ---
 
-# Dashboard Overview
+## Dashboard Overview
 
 The dashboard provides a complete overview of IMDb Top Rated Movies through interactive visualizations and KPIs.
 
@@ -98,14 +98,14 @@ It allows users to analyze:
 
 ---
 
-# Dashboard Preview
+## Dashboard Preview
 
-## Dashboard
+### Dashboard
 ![Dashboard](images/Dashboard.png)
 
 ---
 
-# Dashboard KPIs
+## Dashboard KPIs
 
 | KPI | Value |
 |---|---|
@@ -118,9 +118,9 @@ It allows users to analyze:
 
 ---
 
-# Analysis & Insights
+## Analysis & Insights
 
-## 1. Movies Over Decades
+### 1. Movies Over Decades
 
 The analysis shows that:
 - The **2000s** contain the highest number of top-rated movies.
@@ -139,7 +139,7 @@ At the same time, the 1990s remain one of the strongest cinematic eras with icon
 
 ---
 
-## 2. Certificates Analysis
+### 2. Certificates Analysis
 
 The certificate distribution revealed that:
 
@@ -154,7 +154,7 @@ Movies targeted toward mature audiences tend to achieve:
 
 ---
 
-## 3. Top Directors Analysis
+### 3. Top Directors Analysis
 
 The dashboard highlights some of the most influential directors, including:
 - Frank Darabont
@@ -174,7 +174,7 @@ Highly recognized directors consistently produce movies with:
 
 ---
 
-## 4. Top Ranked Movies
+### 4. Top Ranked Movies
 
 Some of the highest ranked movies include:
 - The Shawshank Redemption
@@ -193,7 +193,7 @@ The most successful movies often share:
 
 ---
 
-## 5. Reviews & Duration Correlation
+### 5. Reviews & Duration Correlation
 
 A scatter plot with Play Axis animation was used to analyze the relationship between:
 - Movie duration
@@ -214,7 +214,7 @@ Using the Decade Play Axis added a dynamic storytelling experience by showing ho
 
 ---
 
-# Interactive Features
+## Interactive Features
 
 The dashboard includes interactive filters for:
 - Director
@@ -225,7 +225,7 @@ These slicers help users dynamically explore the data and customize the analysis
 
 ---
 
-# Tooltip Feature
+## Tooltip Feature
 
 A custom tooltip using a **Gauge Chart** was implemented to display movie ratings interactively.
 
@@ -238,7 +238,7 @@ by allowing users to quickly evaluate movie ratings while hovering over visuals.
 
 ---
 
-# Recommendations
+## Recommendations
 
 Based on the analysis, several recommendations can be made:
 
@@ -250,7 +250,7 @@ Based on the analysis, several recommendations can be made:
 
 ---
 
-# Tools & Technologies
+## Tools & Technologies
 
 - Power BI
 - Power Query
@@ -260,7 +260,7 @@ Based on the analysis, several recommendations can be made:
 
 ---
 
-# Conclusion
+## Conclusion
 
 This project demonstrates how raw movie data can be transformed into meaningful business insights through data cleaning, visualization, and interactive analysis.
 
@@ -274,7 +274,7 @@ while delivering an engaging and interactive analytical experience.
 
 ---
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 **Yomna Ahmed Hamdy**  
 Data Analyst
